@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @EddieTheEd
-- 👀 I’m interested in nothing related to coding, I dump my obsidian notes herr
+- 👀 I’m interested in nothing related to coding, I dump my obsidian notes here
 - 🌱 I’m currently learning all the big brain subjects in high school
 - 💞️ I’m looking to collaborate with people who are willing to share their notes
 - 📫 How to reach me: email edwardleehuynh@gmail.com, if you're lucky I'll respond
+- 🟡 Profile picture: *Suprematism (1916) by Olga Rozanova*
 
 
 <!---
