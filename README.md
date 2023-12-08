@@ -1,3 +1,5 @@
+<img src="https://ed.toomwn.xyz/assets/pandas.gif">
+
 i am copying other peoples stats things because i want to see all my commits cause that is funny and awesome and cool
 
 <p align=center>
